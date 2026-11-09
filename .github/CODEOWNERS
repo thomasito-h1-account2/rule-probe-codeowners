@@ -1,0 +1,5 @@
+/exact.txt @thomasito-h1-account2
+*.key @thomasito-h1-account2
+/conf/ @thomasito-h1-account2
+/docs/* @thomasito-h1-account2
+/a/**/z.txt @thomasito-h1-account2
